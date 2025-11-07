@@ -23,7 +23,7 @@ Perfect for learning Flask and small business prototypes.
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/clothing_store.git
+(https://github.com/Vsesla/-Flask-Clothing-Store.git)
 cd clothing_store
 pip install -r requirements.txt
 python app.py
@@ -110,7 +110,7 @@ Free for learning and commercial use.
 
 ⚙️ Установка
 
-git clone https://github.com/yourusername/clothing_store.git
+(https://github.com/Vsesla/-Flask-Clothing-Store.git)
 cd clothing_store
 pip install -r requirements.txt
 python app.py
